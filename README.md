@@ -1,6 +1,6 @@
 # FL-studio-new-24
 
-      <img src="https://github.com/ConstanKee/FL-studio-new-24/blob/main/Fl.png"/>
+<img src="https://github.com/ConstanKee/FL-studio-new-24/blob/main/Fl.png"/>
 
 ___
 
